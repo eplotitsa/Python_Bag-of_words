@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python_Bag)of_words", "Python_Bag)of_words\Python_Bag)of_words.pyproj", "{7CFF4747-AF6C-4741-B742-F596178882D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CFF4747-AF6C-4741-B742-F596178882D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFF4747-AF6C-4741-B742-F596178882D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06721081-5A81-4097-A26C-FB77E8B04094}
+	EndGlobalSection
+EndGlobal
